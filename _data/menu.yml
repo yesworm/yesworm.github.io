@@ -2,6 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: aspiring developer focused on backend, currently learning go
+    entries: 
+    - title: future projects will go here ↓
   - title: say hello
     entries:
       - title: email
