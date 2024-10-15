@@ -2,9 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: aspiring developer, learning via boot.dev & the odin project
+  - title: aspiring developer, learning via boot.dev, the odin project & superhi.
     entries: 
-    - title: future projects will go here ↓
+    - title: current projects in my learning journey ↓
+      entries:
+      - title: wonky grid 
+      - url: https://wonky-grid.vercel.app/
+      - title: hyperworm (WIP)
+      - url:
   - title: say hello
     entries:
       - title: email
