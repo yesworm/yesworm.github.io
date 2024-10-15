@@ -3,12 +3,12 @@
 
 title: aspiring developer, learning via boot.dev, the odin project & superhi.
 
-entries: 
+entries:
   - title: current projects in my learning journey ↓
-     entries:
-    - title: wonky grid
-      url: https://wonky-grid.vercel.app/
-    - title: hyperworm (WIP)
+    entries:
+      - title: wonky grid
+        url: https://wonky-grid.vercel.app/
+      - title: hyperworm (WIP)
   - title: say hello
     entries:
       - title: email
