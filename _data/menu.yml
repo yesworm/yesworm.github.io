@@ -1,22 +1,21 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-- title: aspiring developer, learning via boot.dev, the odin project & superhi.
-
 entries:
-  - title: current projects in my learning journey ↓
+  - title: aspiring developer, learning via boot.dev, the odin project & superhi.
     entries:
-      - title: wonky grid
-        url: https://wonky-grid.vercel.app/
-      - title: hyperworm (WIP)
-  - title: say hello
-    entries:
-      - title: email
-        url: mailto:geyerwork@gmail.com
-      - title: twitter
-        url: https://x.com/trashw0rm
-      - title: github
-        url: https://github.com/yesworm
-      - title: are.na
-        url: https://www.are.na/sam-favj5cn6c7k
-  
+      - title: current projects in my learning journey ↓
+        entries:
+          - title: wonky grid
+            url: https://wonky-grid.vercel.app/
+          - title: hyperworm (WIP)
+      - title: say hello
+        entries:
+          - title: email
+            url: mailto:geyerwork@gmail.com
+          - title: twitter
+            url: https://x.com/trashw0rm
+          - title: github
+            url: https://github.com/yesworm
+          - title: are.na
+            url: https://www.are.na/sam-favj5cn6c7k
